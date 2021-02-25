@@ -10,6 +10,8 @@ Follow the [cnet guide](https://www.cnet.com/how-to/how-to-install-chrome-extens
 
 Change newsitetobeblocked.com to your own domain.
 
+Line 7 of "background.js".
+
 ```javascript
  urls: [
             "*://*.doubleclick.net/*",
